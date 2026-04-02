@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Once More to See You",
+  "base_artist": "Mitski",
+  "createdAt": "2026-04-02T07:34:50.556628Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Once More to See You",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/01_Once_More_to_See_You_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Once More to See You",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/02_Once_More_to_See_You_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Once More to See You",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/03_Once_More_to_See_You_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Once More to See You",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/04_Once_More_to_See_You_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Once More to See You",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/05_Once_More_to_See_You_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Once More to See You",
+      "artist": "Mitski, Mitski",
+      "has_synced": true,
+      "path": "select/06_Once_More_to_See_You_Mitski,_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Once More to See You (Paused)",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/07_Once_More_to_See_You_(Paused)_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "03 Once More to See You",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/08_03_Once_More_to_See_You_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Mitski - Once More to See You (Official Audio)",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/09_Mitski_-_Once_More_to_See_You_(Official_Audio)_Mitski.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "03  Once More to See You [Puberty 2]",
+      "artist": "Mitski",
+      "has_synced": true,
+      "path": "select/10_03_Once_More_to_See_You_[Puberty_2]_Mitski.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Once More to See You",
+      "artist": "Mitski",
+      "has_synced": false,
+      "path": "select/pl_01_Once_More_to_See_You_Mitski.txt"
+    }
+  ]
+}
